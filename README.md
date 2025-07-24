@@ -57,4 +57,4 @@ L'étude utilise des données client (âge, situation professionnelle, état civ
 ---
 
 ## 👤 Auteur
-**ALLAHNDIGUIM Arsène** – Étudiant en Data Science, passionné par l’analyse de données et la compréhension des comportements clients.
+**ALLAHNDIGUIM Arsène** – Étudiant en Machine Learning Engineer, passionné par l’analyse de données et la compréhension des comportements clients.
