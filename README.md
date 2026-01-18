@@ -54,4 +54,6 @@ L'étude utilise des données client (âge, situation professionnelle, état civ
 - `test.csv` : dataset utilisé.
 - `README.md` : ce fichier de présentation.
 
----
+
+Auteur : Arsene
+Année: 2025
